@@ -1,128 +1,123 @@
-🌸 ZYRA AI — Smart, Safe & Human-Centric Roommate Matching
+<div align="center">
 
-ZYRA AI is an AI-powered, voice-first roommate matching platform designed specifically for women’s co-living spaces.
-It goes beyond basic forms and filters by understanding lifestyle preferences, tone, mood, and safety needs — ensuring not just compatibility, but comfort and trust.
+# 🌸 ZYRA AI  
+### AI-Powered, Voice-First Roommate Matching for Women’s Co-Living Spaces  
 
-🗣️ Because where you live should feel safe, aligned, and understood.
+🔒 Safe • 🎙️ Voice-Driven • 🧠 Intelligent • 💖 Human-Centric  
 
-✨ Why ZYRA AI?
+</div>
 
-Finding a roommate isn’t just about rent and location — it’s about:
+---
 
-daily habits
+## 🚀 Overview
 
-emotional compatibility
+**ZYRA AI** is an AI-powered platform designed to make roommate matching in women’s hostels and co-living spaces **safer, smarter, and emotionally compatible**.
 
-personal boundaries
+Instead of long forms and random allocations, Zyra uses **voice-based intake**, **AI-driven compatibility logic**, and **privacy-first safety features** to create living environments where women feel comfortable, understood, and protected.
 
-and above all, safety
+---
 
-ZYRA AI bridges this gap using voice-based AI interactions, compatibility logic, and privacy-first design.
+## ❗ The Problem
 
-🔥 Key Features
-🎙️ Voice-Based Intake (Core USP)
+- Random roommate allocation causes frequent conflicts  
+- Emotional compatibility is completely ignored  
+- Safety reporting systems are slow or hidden  
+- Most platforms rely on lengthy, impersonal forms  
 
-Users answer lifestyle questions using voice input
+---
 
-Supports multiple Indian languages (English, Hindi, Marathi, Bengali, Punjabi)
+## 💡 The Solution — ZYRA AI
 
-Uses tone & sentiment cues to enhance compatibility logic
+ZYRA AI introduces a **voice-first, AI-backed approach** to roommate matching that prioritizes:
 
-🧠 AI-Driven Compatibility Matching
+✔ Emotional & lifestyle compatibility  
+✔ Instant safety access  
+✔ Privacy-first design  
+✔ Inclusive, multilingual interaction  
 
-Matches users based on:
+---
 
-sleep schedule
+## ✨ Key Features
 
-cleanliness
+### 🎙️ Voice-Based Intake (Core USP)
+- Users answer lifestyle questions using **voice**
+- Multilingual support for diverse users
+- Reduces friction & captures natural responses
 
-social habits
+---
 
-work/study routine
+### 🧠 AI-Powered Compatibility Matching
+- Matches users based on:
+  - Daily routine & habits  
+  - Cleanliness preferences  
+  - Social comfort levels  
+  - Emotional temperament  
+- Displays:
+  - Compatibility score  
+  - Category-wise breakdown  
+- 🔐 No photos or personal contact details shared
 
-emotional temperament
+---
 
-Displays compatibility score & breakdown
+### 💫 Vibe Check (Pre-Match Layer)
+- Short, casual voice prompts  
+- Ensures **mood and temperament alignment** before final allocation
 
-No personal photos or contact details shown (privacy-first)
+---
 
-💫 Vibe Check (Pre-Match)
+### 🚨 Safety-First Architecture
 
-Short, casual voice prompts to assess mood alignment
+#### 🔴 SOS
+- One-tap emergency trigger  
+- Designed for instant response  
 
-Helps avoid emotionally mismatched roommate pairings
+#### 🛡️ Safe Circle
+- Trusted contacts & authority access  
+- Available **without login**
 
-🚨 Safety-First System
-🔴 SOS Feature
+#### 📣 QuickConnect
+- Voice/text-based complaint submission  
+- Anonymous & frictionless
 
-One-tap emergency trigger
+---
 
-Designed for quick access in unsafe situations
+### 📝 Feedback & Complaint System
+- Post-match feedback collection  
+- Voice-enabled formal complaints  
+- Supports escalation and re-matching logic
 
-🛡️ Safe Circle
+---
 
-Connect trusted contacts & authorities
+### 🧑‍💼 Admin Dashboard
+- Centralized monitoring of:
+  - User activity  
+  - Match statistics  
+  - Safety alerts  
+  - Room allocations  
 
-Accessible without login
+---
 
-📣 QuickConnect (No Login Required)
+## 🧩 Tech Stack
 
-Voice/text complaints directly to hostel or authorities
+### Frontend
+- React + TypeScript  
+- Tailwind CSS  
+- Vite  
+- Lucide Icons  
 
-For urgent but non-formal concerns
+### Backend
+- Node.js  
+- Firebase  
 
-📝 Feedback & Mismatch Reporting
+### AI & Voice
+- Omnidimension Voice Agent  
+- AI-based compatibility scoring  
 
-Post-match feedback form
+---
 
-Formal complaint submission (voice-enabled)
+## 🗂️ Project Structure
 
-Enables re-matching or escalation flow
-
-🧑‍💼 Admin Dashboard
-
-View:
-
-active users
-
-matches
-
-safety alerts
-
-room availability
-
-Monitor complaints & feedback centrally
-
-🧩 Tech Stack
-Frontend
-
-⚛️ React + TypeScript
-
-🎨 Tailwind CSS
-
-🎭 Lucide Icons
-
-Backend / Logic
-
-🧠 Node.js
-
-🔥 Firebase
-
-🤖 AI-powered compatibility logic
-
-Voice & AI
-
-🎙️ Omnidimension (Voice Agent)
-
-🧩 Tone & response analysis
-
-Build Tools
-
-⚡ Vite
-
-📦 npm
-
-🗂️ Project Structure
+```text
 src/
 │── components/
 │   ├── HomePage.tsx
@@ -135,4 +130,3 @@ src/
 │── App.tsx
 │── main.tsx
 │── index.css
-
